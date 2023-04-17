@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning SwiftUI, Ruby and Python...
 - 💞️ I’m looking to collaborate on anyinteresting projects in the languages am already confortable in.
 - 📫 How to reach me ...
+## Skills
 
 <!---
 icifrost/icifrost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
