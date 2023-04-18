@@ -6,9 +6,9 @@
 ## Skills
 <img
   src="images/skills/php-colored.svg"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  alt="PHP"
+  title="PHP"
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
 <!---![PHP](images/skills/php-colored.svg)--->
 <!---
 icifrost/icifrost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
