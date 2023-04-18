@@ -5,6 +5,11 @@
 - 📫 How to reach me ...
 ## Skills
 <img
+  src="images/skills/html5-colored.svg"
+  alt="HTML5"
+  title="HTML5"
+  style="display: inline-block; margin: 0 auto; width: 100px">
+<img
   src="images/skills/php-colored.svg"
   alt="PHP"
   title="PHP"
