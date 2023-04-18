@@ -10,6 +10,11 @@
   title="HTML5"
   style="display: inline-block; margin: 0 auto; width: 100px">
   <img
+  src="images/skills/css3-colored.svg"
+  alt="CSS3"
+  title="CSS3"
+  style="display: inline-block; margin: 0 auto; width: 100px">
+  <img
   src="images/skills/javascript-colored.svg"
   alt="Javascript"
   title="Javascript"
