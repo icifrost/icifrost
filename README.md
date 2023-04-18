@@ -8,7 +8,7 @@
   src="images/skills/php-colored.svg"
   alt="PHP"
   title="PHP"
-  style="display: inline-block; margin: 0 auto; width: 200px">
+  style="display: inline-block; margin: 0 auto; width: 100px">
 <!---![PHP](images/skills/php-colored.svg)--->
 <!---
 icifrost/icifrost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
