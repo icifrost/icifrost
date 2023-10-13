@@ -2,7 +2,6 @@ Hi 👋 My name is Kafwana Wandi
 ======================================================================================================================================
 Software Developer
 ------------------
-- 👋 Hi, I’m @icifrost
 - 👀 I’m interested in software development,web development and mobile app development.
 - 🌱 I’m currently learning SwiftUI, Ruby and Python...
 - 💞️ I’m looking to collaborate on any interesting projects in the languages am already comfortable in.
