@@ -1,56 +1,50 @@
-- 👋 Hi, I’m @icifrost
-- 👀 I’m interested in software development,web development and mobile app development.
-- 🌱 I’m currently learning SwiftUI, Ruby and Python...
-- 💞️ I’m looking to collaborate on any interesting projects in the languages am already comfortable in.
-- 📫 How to reach me ...
-## Skills
-<img
-  src="images/skills/html5-colored.svg"
-  alt="HTML5"
-  title="HTML5"
-  style="display: inline-block; margin: 0 auto; width: 36px; height: 36px">
-  <img
-  src="images/skills/css3-colored.svg"
-  alt="CSS3"
-  title="CSS3"
-  style="display: inline-block; margin: 0 auto; width: 36px; height: 36px">
-  <img
-  src="images/skills/javascript-colored.svg"
-  alt="Javascript"
-  title="Javascript"
-  style="display: inline-block; margin: 0 auto; width: 36px; height: 36px">
-<img
-  src="images/skills/php-colored.svg"
-  alt="PHP"
-  title="PHP"
-  style="display: inline-block; margin: 0 auto; width: 36px; height: 36px">
-  <img
-  src="images/skills/swift-colored.svg"
-  alt="Swift"
-  title="Swift"
-  style="display: inline-block; margin: 0 auto; width: 36px; height: 36px">
-  <img
-  src="images/skills/kotlin-colored.svg"
-  alt="Kotlin"
-  title="Kotlin"
-  style="display: inline-block; margin: 0 auto; width: 36px; height: 36px">
-  <img
-  src="images/skills/java-colored.svg"
-  alt="Java"
-  title="Java"
-  style="display: inline-block; margin: 0 auto; width: 36px; height: 36px">
-  <img
-  src="images/skills/postgresql-colored.svg"
-  alt="Postgres"
-  title="Postgres"
-  style="display: inline-block; margin: 0 auto; width: 36px; height: 36px">
-  <img
-  src="images/skills/mysql-colored.svg"
-  alt="MySQL"
-  title="MySQL"
-  style="display: inline-block; margin: 0 auto; width: 36px; height: 36px">
-<!---![PHP](images/skills/php-colored.svg)--->
-<!---
-icifrost/icifrost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kafwana Wandi
+=====================================================================================================================================
+
+Software Developer
+------------------
+
+*   🌍  I'm based in Lusaka, Zambia
+*   🖥️  See my portfolio at [kafwanawandi.com](http://kafwanawandi.com)
+*   ✉️  You can contact me at [hi@kafwanawandi.com](mailto:hi@kafwanawandi.com)
+*   🚀  I'm currently working on [africanmall.app](http://africanmall.app)
+*   🧠  I'm learning Ruby and Ruby on Rails
+*   🤝  I'm open to collaborating on interesting projects### Skills 
+<p align="left">
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://www.github.com/icifrost" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="http://www.instagram.com/kafwana.codes" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.linkedin.com/in/kafwana-wandi" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.threads.net/@kafwana.codes" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/icifrost"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=icifrost&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>### Support Me<ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/kafwana"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li></ul>
